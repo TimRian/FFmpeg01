@@ -56,7 +56,7 @@
 }
 
 /**
- 裁剪
+ 裁剪video
 
  @param sender cut
  */
